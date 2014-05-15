@@ -1,0 +1,9 @@
+In figure 1, we see the different wires used in the experiment. Copper, bismuth and other various wires are tested through an ice bath. A steam jacket is used to control the heat.
+
+Figure 2 shows the relationship between potential difference and the current. Potential difference can be defined the electric potential difference between two points, or the difference in electric potential energy of a unit charge transported between two points. The current is the flow of the electric charge, usually denoted as i. A galvanometer is used for measuring the current. 
+
+To show how the current is losing energy as it is travelling through a wire, I have conducted an experiment where a galvanometer is used to measure the relationship between wire length and current. The results are shown in figure 4. Figure 5 is used to show the in the inverse of these results. A more thorough list of results can be seen in Table 1. 
+
+
+
+
